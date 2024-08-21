@@ -102,7 +102,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any inquiries or issues, please reach out to:
 
 - **LinkedIn**: [linkedin.com/in/ahmet-dizdar](https://www.linkedin.com/in/ahmet-dizdarr/)
-
----
-
-Bu `README.md` dosyası, projeyle ilgili temel bilgileri, kurulum ve kullanım adımlarını, ve katkıda bulunma yönergelerini içermektedir. İhtiyacınıza göre düzenleyebilir ve ek bilgiler ekleyebilirsiniz.
