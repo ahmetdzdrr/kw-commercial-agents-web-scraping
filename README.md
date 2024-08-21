@@ -1,5 +1,8 @@
 # KW Commercial Agents Web Scraping
 
+![Screenshot 2024-08-21 at 15 02 50](https://github.com/user-attachments/assets/8d83489c-1e3b-427d-bd52-05935f5034b3)
+
+
 This repository contains a Python-based web scraping tool designed to extract data on commercial real estate agents from the KW Commercial website. The tool gathers agent information such as names, titles, contact details, and other relevant data, which can be used for lead generation, market analysis, or other business purposes.
 
 ## Table of Contents
