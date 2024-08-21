@@ -73,6 +73,8 @@ To use the web scraper, follow these steps:
 
    ```bash
    python scrape.py
+   python scrape2.py
+   python merge.py
    ```
 
 3. **Output**:
